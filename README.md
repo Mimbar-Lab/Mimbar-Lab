@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Khatib Sarbini
 
-<!--
-**Mimbar-Lab/Mimbar-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UiTM interested in machine learning, misinformation detection and software engineering.
 
-Here are some ideas to get you started:
+## About me
+- Studying: Computer Science, UiTM
+- Currently learning: machine learning for text, audio and video; Git and agile workflow
+- My FYP area: detecting fake news in TikTok MP4 videos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+- Languages: Java, [add Python, SQL, or others you really use]
+- Tools: Git, GitHub, Codespaces
+- Practices: user stories, requirements writing, sprint planning with issues and pull requests
+
+## Project
+- https://github.com/Mimbar-Lab/Fake-News-Detection-In-Tiktok
+
+## Contact
+- Email: 2024663336@student.uitm.edu.my
