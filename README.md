@@ -8,7 +8,7 @@ Computer Science student at UiTM interested in machine learning, misinformation 
 - My FYP area: detecting fake news in TikTok MP4 videos
 
 ## Skills and tools
-- Languages: Java, [add Python, SQL, or others you really use]
+- Languages: Java and Python
 - Tools: Git, GitHub, Codespaces
 - Practices: user stories, requirements writing, sprint planning with issues and pull requests
 
