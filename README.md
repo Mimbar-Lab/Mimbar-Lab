@@ -4,7 +4,7 @@ Computer Science student at UiTM interested in machine learning, misinformation 
 
 ## About me
 - Studying: Computer Science, UiTM
-- Currently learning: machine learning for text, audio and video; Git and agile workflow
+- Currently learning: machine learning for text, audio and video, Git and agile workflow
 - My FYP area: detecting fake news in TikTok MP4 videos
 
 ## Skills and tools
